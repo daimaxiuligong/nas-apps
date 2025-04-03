@@ -3,6 +3,7 @@
 
 | 应用图标                                                     | 名称                | 版本号  | 简介                                                         | 更新日期      |
 | ------------------------------------------------------------ | ------------------- | ------- | :----------------------------------------------------------- | ------------- |
+| <img src="./img/dpanel.png"  width="80" height="80">         | dpanel              | 1.6.2   | DPanel 是一个Docker 可视化管理面板,<br />支持第三方应用商店应用安装，<br />支持1panel、CasaOS应用商店。 | 2025年04月3日 |
 | <img src="./img/audiobookshelf.png"  width="80" height="80"> | audiobookshelf      | 2.16.2  | 一款管理博客和有声书的自托管系统。                           | 2024年11月6日 |
 | <img src="./img/bililive-go-0.7.33.png"  width="80" height="80"> | bililive-go         | 0.7.33  | Bililive-go是一个支持多种直播平台的<br />直播录制工具,支持B站、抖音、斗鱼、<br />虎牙、快手等等平台。 | 2024年11月6日 |
 | <img src="./img/calibre-web-0.6.23.png"  width="80" height="80"> | calibre-web         | 0.6.23  | Calibre-Web用于浏览、阅读和下载<br /> Calibre 数据库中存储的电子书。 | 2024年11月6日 |
